@@ -1,0 +1,150 @@
+# Translation of Themes - Highlight in Turkish
+# This file is distributed under the same license as the Themes - Highlight package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-17 13:53:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Highlight\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Highlight is an incredibly flexible, multipurpose WordPress theme that can help you create an amazing website easier than ever, by drag and drop. It comes with a predesigned home page, 5 header designs and over 30 ready to use content sections that you can easily customize. It also has lots of customization options (video background, slideshow background, header content types, gradient overlays, etc) that will help you create a beautiful, unique website in no time. Highlight is responsive so it works on mobile devices out of the box and it is also WooCommerce ready."
+msgstr "Highlight, inanılmaz derecede esnek, sürükle bırak yardımıyla en kolay şekilde harita web siteleri oluşturmanıza olanak sağlayan çok amaçlı bir WordPress temasıdır. Önceden tasarlanmış bir ana sayfa, 5 üst bölüm tasarımı ve kolayca özelleştirebileceğiniz kullanıma hazır 30'un üstünde içerik bölümüyle beraber gelmektedir. Ayrıca bir çok özelleştirme seçeneği (video arka plan, slayt gösterisi arka plan, üst bölüm içerik tipleri, renk geçişi örtüleri vb.) kısa sürede eşsiz, güzel bir web sitesi oluşturmanıza yardımcı olur. Highlight duyarlı tasarıma sahiptir, yani kutudan çıktığı gibi mobil cihazlarda çalışır. Ayrıca WooCommerce için de hazırdır."
+
+#. Theme Name of the theme
+#: inc/admin.php:42
+#, gp-priority: high
+msgid "Highlight"
+msgstr "Vurgula"
+
+#: functions.php:195
+msgid "Built using WordPress and the %s"
+msgstr "WordPress ve %s ile oluşturulmuştur"
+
+#: functions.php:178
+msgid "Mesmerize Companion plugin adds drag and drop functionality and many other features to the Highlight theme."
+msgstr "Mesmerize Companion eklentisi Highlight temasına sürükle/bırak becerisi ve daha bir çok özellik ekler."
+
+#: functions.php:168
+msgid "Highlight PRO"
+msgstr "Highlight PRO"
+
+#: functions.php:162
+msgid "Highlight Demos"
+msgstr "Highlight örnek siteler"
+
+#: inc/side-navigation.php:126
+msgid "Side navigation"
+msgstr "Kenar dolaşımı"
+
+#: inc/side-navigation.php:110
+msgid "Hide main menu"
+msgstr "Ana menüyü gizle"
+
+#: inc/side-navigation.php:88
+msgid "None"
+msgstr "Hiç biri"
+
+#: inc/side-navigation.php:87
+msgid "All sections"
+msgstr "Tüm bölümler"
+
+#: inc/side-navigation.php:86
+msgid "Active section only"
+msgstr "Yalnızca etkin bölüm"
+
+#: inc/side-navigation.php:82
+msgid "Visible labels"
+msgstr "Görünür etiketler"
+
+#: inc/side-navigation.php:60
+msgid "Page hero bullet label"
+msgstr "Sayfa kaydırak imi etiketi"
+
+#: inc/side-navigation.php:43
+msgid "Show only after scroll"
+msgstr "Yalnızca kaydırma sonrası göster"
+
+#: inc/side-navigation.php:26
+msgid "Show page hero bullet"
+msgstr "Sayfa kaydırak imlerini göster"
+
+#: inc/side-navigation.php:16
+msgid "Enable side navigation"
+msgstr "Kenar dolaşımını etkinleştir"
+
+#: inc/side-navigation.php:8
+msgid "Side navigation options"
+msgstr "Kenar dolaşımı seçenekleri"
+
+#: inc/side-navigation.php:65 inc/template-functions.php:27
+msgid "Top"
+msgstr "Üst"
+
+#: functions.php:200
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:173
+msgid "Thank you for choosing Highlight!"
+msgstr "Highlight temasını seçtiğiniz için teşekkürler!"
+
+#: functions.php:156
+msgid "Highlight Info"
+msgstr "Highlight bilgi"
+
+#: template-parts/content-single.php:30
+msgid "Previous post:"
+msgstr "Önceki yazı:"
+
+#: template-parts/content-single.php:29
+msgid "Previous:"
+msgstr "Önceki:"
+
+#: template-parts/content-single.php:26
+msgid "Next post:"
+msgstr "Sonraki yazı:"
+
+#: template-parts/content-single.php:25
+msgid "Next:"
+msgstr "Sonraki:"
+
+#: template-parts/content-single.php:16
+msgid "Page"
+msgstr "Sayfa"
+
+#: template-parts/content-single.php:12
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: template-parts/content-post-meta.php:11
+msgid "on"
+msgstr "açık"
+
+#: template-parts/content-post-meta.php:10
+msgid "in"
+msgstr "kategorisi"
+
+#: template-parts/content-post-meta.php:9
+msgid "by"
+msgstr "yazarı"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://extendthemes.com/highlight"
+msgstr "https://extendthemes.com/highlight"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://extendthemes.com/"
+msgstr "https://extendthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ExtendThemes"
+msgstr "ExtendThemes"
